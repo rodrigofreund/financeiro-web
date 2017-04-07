@@ -1,4 +1,4 @@
-package com.heroku.demo;
+package br.com.rodrigofreund.financeiro;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;

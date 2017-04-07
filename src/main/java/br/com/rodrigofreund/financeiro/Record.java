@@ -1,4 +1,4 @@
-package com.heroku.demo;
+package br.com.rodrigofreund.financeiro;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
